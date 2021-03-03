@@ -1,8 +1,8 @@
 import Card from '@material-ui/core/Card';
-import CardActions from '@material-ui/core/CardActions';
+
 import Button from '@material-ui/core/Button';
-import Box from '@material-ui/core/Box';
-import { makeStyles } from '@material-ui/core/styles';
+
+
 import Table from '@material-ui/core/Table';
 import TableBody from '@material-ui/core/TableBody';
 import TableCell from '@material-ui/core/TableCell';
@@ -37,13 +37,13 @@ class App extends Component {
   }
 
   getData(url){
-    
+    this.setState( {isLoading: true})
     axios.get(url)
     // We get the API response and receive data in JSON format
     .then(res => this.setState({data : res.data, isLoading: false}))
      // ...then we update the users state
     // Catch any errors we hit and update the app
-    .catch(error => this.setState({ error, isLoading: false }))
+    .catch(error => this.setState({ error, isLoading: true }))
     
       
 
