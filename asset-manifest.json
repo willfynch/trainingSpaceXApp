@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/trainingSpaceXApp/static/css/main.fed2ac8f.chunk.css",
+    "main.js": "/trainingSpaceXApp/static/js/main.a6ef788b.chunk.js",
+    "main.js.map": "/trainingSpaceXApp/static/js/main.a6ef788b.chunk.js.map",
+    "runtime-main.js": "/trainingSpaceXApp/static/js/runtime-main.4f89d472.js",
+    "runtime-main.js.map": "/trainingSpaceXApp/static/js/runtime-main.4f89d472.js.map",
+    "static/js/2.1a5ff809.chunk.js": "/trainingSpaceXApp/static/js/2.1a5ff809.chunk.js",
+    "static/js/2.1a5ff809.chunk.js.map": "/trainingSpaceXApp/static/js/2.1a5ff809.chunk.js.map",
+    "static/js/3.3466ab59.chunk.js": "/trainingSpaceXApp/static/js/3.3466ab59.chunk.js",
+    "static/js/3.3466ab59.chunk.js.map": "/trainingSpaceXApp/static/js/3.3466ab59.chunk.js.map",
+    "index.html": "/trainingSpaceXApp/index.html",
+    "static/css/main.fed2ac8f.chunk.css.map": "/trainingSpaceXApp/static/css/main.fed2ac8f.chunk.css.map",
+    "static/js/2.1a5ff809.chunk.js.LICENSE.txt": "/trainingSpaceXApp/static/js/2.1a5ff809.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f89d472.js",
+    "static/js/2.1a5ff809.chunk.js",
+    "static/css/main.fed2ac8f.chunk.css",
+    "static/js/main.a6ef788b.chunk.js"
+  ]
+}
